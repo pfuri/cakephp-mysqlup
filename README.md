@@ -11,7 +11,7 @@ Requirements
 
 Installation
 =====
-    1.) Copy MysqlUp.php to /app/Model/Datasources
+    1.) Copy MysqlUp.php to /app/Model/Datasources/Database/MysqlUp.php
     2.) Set the datasource for your database to "Database/MysqlUp"
 
 Usage
