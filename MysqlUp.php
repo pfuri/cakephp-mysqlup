@@ -2,7 +2,7 @@
 /**
  * MySQL Up - Enhanced Update Functionality For Mysql DBO Source
  *
- * Copyright 2013, Paul Furiani <paul@furiani.net>
+ * Copyright 2013, Unfaiir <unfaiir@furiani.net>
  *
  * Licensed under The MIT License
  * Redistributions of files must retain the above copyright notice.
