@@ -2,12 +2,12 @@
 /**
  * MySQL Up - Enhanced Update Functionality For Mysql DBO Source
  *
- * Copyright 2013, Unfaiir <unfaiir@furiani.net>
+ * Copyright 2013, Paul Furiani (https://github.com/pfuri)
  *
  * Licensed under The MIT License
  * Redistributions of files must retain the above copyright notice.
  *
- * @author: Unfaiir <unfaiir@furiani.net>
+ * @author: Paul Furiani (https://github.com/pfuri)
  * @copyright Copyright 2013-2014
  * @link http://cakephp.org CakePHP(tm) Project
  * @package Datasources.Model.Datasource.Database
